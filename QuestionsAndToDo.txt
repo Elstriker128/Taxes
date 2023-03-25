@@ -1,0 +1,16 @@
+﻿Questions:
+1. Can FullPaid be public set but in a private method?
+
+To Do:
+1. Alterate Print for tax and people - Done
+2. UI design - Done
+3. Session - Not required
+4. Check if remove works - Done
+5. ToString() - Done
+6. Add a method that collects all the taxes that were paid during the cheapest month - Done
+
+Components:
+1. 2x choose file
+2. Labels
+3. Button
+4. Tables

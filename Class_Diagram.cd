@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Taxes.InOutUtils">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAIAAAAQAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAA=</HashCode>
+      <FileName>InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Taxes.PeopleLinkedList">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Taxes.PeopleLinkedList.PersonNode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PeopleLinkedList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EiAAAAAAgAAAAAAAAAAwBAQAgAAAMAEAAAQAAAGAAkA=</HashCode>
+      <FileName>PeopleLinkedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Taxes.Person">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEAACAAgAAAABAAACCIAAAAABAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Taxes.Tax">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAIABACAA=</HashCode>
+      <FileName>Tax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Taxes.TaxesLinkedList">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Taxes.TaxesLinkedList.TaxNode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TaxesLinkedList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IgAAAAAAgAAAAAEABAAAAAQAgAAAEAAAAAAAAAEAAgA=</HashCode>
+      <FileName>TaxesLinkedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Taxes.UIForClient">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADACAAEAAgAEAAAAAgQBgAIAAAYAAQAAEgAAQAAgE=</HashCode>
+      <FileName>UIForClient.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

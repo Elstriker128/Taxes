@@ -1,0 +1,5 @@
+﻿Boruta Kazys,Šiauliai,January,304766622,1
+Boris Kazys,Vilnius,March,222371103,2
+Balys Juozas,Klaipėda,April,737011199,4
+Kliokis Joris,Kaunas,June,304776624,3
+Jonaitis Vilius,Šiauliai,January,304766622,1
